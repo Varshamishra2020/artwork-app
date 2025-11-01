@@ -29,7 +29,7 @@ A React application built with TypeScript and Vite for exploring artworks from t
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Varshamishra2020/artwork-app.git
 cd artwork-app
 ```
 
